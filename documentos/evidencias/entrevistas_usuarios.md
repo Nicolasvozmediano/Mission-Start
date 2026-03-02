@@ -47,3 +47,4 @@
 - La lentitud percibida coincide con los errores de aplicación detectados en los logs.
 - Los usuarios técnicos son los más afectados por el rendimiento.
 - Se detecta necesidad de mejorar recursos y optimización del sistema.
+Add user interviews and qualitative analysis
